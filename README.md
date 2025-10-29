@@ -1,2 +1,1 @@
-# nlp100
-# nlp100
+# NLP 100 Exercise 2025 (Rev 1)
