@@ -23,12 +23,12 @@ df = pd.read_csv(
 countries = df["4"].unique()
 
 vec = []
-names = []   # ← 国名を保存するリスト
+names = [] 
 
 for c in countries:
     if c in model:
         vec.append(model[c])
-        names.append(c)   # ← 正しく国名を追加
+        names.append(c)
 
 X = np.array(vec)
 

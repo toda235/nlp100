@@ -19,7 +19,6 @@ df = pd.read_csv(
     comment=":"
 )
 
-# 国名リスト
 countries = df["4"].unique()
 
 vec = []

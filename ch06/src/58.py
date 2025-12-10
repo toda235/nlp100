@@ -20,10 +20,8 @@ df = pd.read_csv(
     comment=":"
 )
 
-# 国名リスト
 countries = df["4"].unique()
 
-# モデルに存在する単語だけ採用
 vec = []
 names = []
 
@@ -34,13 +32,13 @@ for c in countries:
 
 X = np.array(vec)
 
-# Ward 法による階層型クラスタリング
+# Ward 法
 Z = linkage(X, method='ward')
 
-# デンドログラム描画
+# 描画
 plt.figure(figsize=(12, 6))
 dendrogram(Z, labels=names, leaf_rotation=90)
 plt.title("Clustering of Country Word Vectors")
 plt.tight_layout()
-plt.savefig("output/58.png", dpi=300)
+plt.savefig("output/58.png")
 plt.show()
