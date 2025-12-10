@@ -1,0 +1,14 @@
+          1       2          3          cor     pred       sim
+0    Athens  Greece    Baghdad         Iraq  Baghdad  0.748983
+1    Athens  Greece    Bangkok     Thailand  Bangkok  0.743114
+2    Athens  Greece    Beijing        China    China  0.718659
+3    Athens  Greece     Berlin      Germany  Germany  0.672089
+4    Athens  Greece       Bern  Switzerland     Bern  0.690234
+..      ...     ...        ...          ...      ...       ...
+501   Tokyo   Japan     Ottawa       Canada   Ottawa  0.736568
+502   Tokyo   Japan      Paris       France   France  0.749786
+503   Tokyo   Japan       Rome        Italy     Rome  0.704386
+504   Tokyo   Japan  Stockholm       Sweden   Sweden  0.798991
+505   Tokyo   Japan     Tehran         Iran     Iran  0.846599
+
+[506 rows x 6 columns]
