@@ -1,0 +1,12 @@
+===== train =====
+{'text': 'hide new secretions from the parental units ', 'label': '0', 'feature': {'hide': 1, 'new': 1, 'secretions': 1, 'from': 1, 'the': 1, 'parental': 1, 'units': 1}}
+{'text': 'contains no wit , only labored gags ', 'label': '0', 'feature': {'contains': 1, 'no': 1, 'wit': 1, ',': 1, 'only': 1, 'labored': 1, 'gags': 1}}
+{'text': 'that loves its characters and communicates something rather beautiful about human nature ', 'label': '1', 'feature': {'that': 1, 'loves': 1, 'its': 1, 'characters': 1, 'and': 1, 'communicates': 1, 'something': 1, 'rather': 1, 'beautiful': 1, 'about': 1, 'human': 1, 'nature': 1}}
+{'text': 'remains utterly satisfied to remain the same throughout ', 'label': '0', 'feature': {'remains': 1, 'utterly': 1, 'satisfied': 1, 'to': 1, 'remain': 1, 'the': 1, 'same': 1, 'throughout': 1}}
+{'text': 'on the worst revenge-of-the-nerds clichés the filmmakers could dredge up ', 'label': '0', 'feature': {'on': 1, 'the': 2, 'worst': 1, 'revenge-of-the-nerds': 1, 'clichés': 1, 'filmmakers': 1, 'could': 1, 'dredge': 1, 'up': 1}}
+===== dev =====
+{'text': "it 's a charming and often affecting journey . ", 'label': '1', 'feature': {'it': 1, "'s": 1, 'a': 1, 'charming': 1, 'and': 1, 'often': 1, 'affecting': 1, 'journey': 1, '.': 1}}
+{'text': 'unflinchingly bleak and desperate ', 'label': '0', 'feature': {'unflinchingly': 1, 'bleak': 1, 'and': 1, 'desperate': 1}}
+{'text': 'allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ', 'label': '1', 'feature': {'allows': 1, 'us': 1, 'to': 2, 'hope': 1, 'that': 1, 'nolan': 1, 'is': 1, 'poised': 1, 'embark': 1, 'a': 2, 'major': 1, 'career': 1, 'as': 1, 'commercial': 1, 'yet': 1, 'inventive': 1, 'filmmaker': 1, '.': 1}}
+{'text': "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . ", 'label': '1', 'feature': {'the': 2, 'acting': 1, ',': 3, 'costumes': 1, 'music': 1, 'cinematography': 1, 'and': 1, 'sound': 1, 'are': 1, 'all': 1, 'astounding': 1, 'given': 1, 'production': 1, "'s": 1, 'austere': 1, 'locales': 1, '.': 1}}
+{'text': "it 's slow -- very , very slow . ", 'label': '0', 'feature': {'it': 1, "'s": 1, 'slow': 2, '--': 1, 'very': 2, ',': 1, '.': 1}}
