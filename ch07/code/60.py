@@ -3,7 +3,7 @@ train_cnt0 = 0
 dev_cnt1 = 0
 dev_cnt0 = 0
 
-with open("data/SST-2/train.tsv","r") as f:
+with open("data/SST-2/train.tsv","r",encoding="utf-8") as f:
     for i in f:
         line = i.strip().split()
         print(line)
