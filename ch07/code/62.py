@@ -53,4 +53,5 @@ clf = LogisticRegression(max_iter=1000)
 clf.fit(x_train,y_train)
 
 y_pred = clf.predict(x_dev)
-print("Accuracy:", accuracy_score(y_dev, y_pred))
+acc = accuracy_score(y_dev, y_pred)
+print(f"Accuracy: {acc}")
