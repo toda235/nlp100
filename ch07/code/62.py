@@ -49,9 +49,9 @@ x_dev = vec.transform(j['feature'] for j in dev_data)
 y_dev = [j['label'] for j in dev_data]
 
 
-clf = LogisticRegression(max_iter=1000)
-clf.fit(x_train,y_train)
+lr = LogisticRegression(max_iter=1000)
+lr.fit(x_train,y_train)
 
-y_pred = clf.predict(x_dev)
+y_pred = lr.predict(x_dev)
 acc = accuracy_score(y_dev, y_pred)
 print(f"Accuracy: {acc}")
