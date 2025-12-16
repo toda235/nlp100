@@ -1,0 +1,2 @@
+sample_text : the worst movie I've ever seen
+pred : 0
