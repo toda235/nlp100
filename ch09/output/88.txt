@@ -1,0 +1,10 @@
+The movie was full of incomprehensibilities.
+  label: positive
+The movie was full of fun.
+  label: positive
+The movie was full of excitement.
+  label: positive
+The movie was full of crap.
+  label: positive
+The movie was full of rubbish.
+  label: positive

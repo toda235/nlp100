@@ -1,0 +1,13 @@
+Loading data...
+Tokenizing...
+Start Training with Trainer...
+{'loss': '0.7495', 'grad_norm': '6.361', 'learning_rate': '1.526e-05', 'epoch': '0.7123'}
+{'eval_loss': '0.6986', 'eval_accuracy': '0.9163', 'eval_runtime': '0.628', 'eval_samples_per_second': '1388', 'eval_steps_per_second': '3.185', 'epoch': '1'}
+{'loss': '0.4143', 'grad_norm': '7.425', 'learning_rate': '1.051e-05', 'epoch': '1.425'}
+{'eval_loss': '0.729', 'eval_accuracy': '0.9209', 'eval_runtime': '0.5824', 'eval_samples_per_second': '1497', 'eval_steps_per_second': '3.434', 'epoch': '2'}
+{'loss': '0.3243', 'grad_norm': '8.404', 'learning_rate': '5.764e-06', 'epoch': '2.137'}
+{'loss': '0.2355', 'grad_norm': '5.244', 'learning_rate': '1.016e-06', 'epoch': '2.849'}
+{'eval_loss': '0.8331', 'eval_accuracy': '0.922', 'eval_runtime': '0.5901', 'eval_samples_per_second': '1478', 'eval_steps_per_second': '3.389', 'epoch': '3'}
+{'train_runtime': '755.8', 'train_samples_per_second': '267.3', 'train_steps_per_second': '2.787', 'train_loss': '0.4205', 'epoch': '3'}
+Evaluating...
+{'eval_loss': 0.8330841660499573, 'eval_accuracy': 0.9220183486238532, 'eval_runtime': 0.5703, 'eval_samples_per_second': 1529.133, 'eval_steps_per_second': 3.507, 'epoch': 3.0}

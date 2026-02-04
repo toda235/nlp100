@@ -1,0 +1,4 @@
+[{'score': 0.10711883753538132, 'token': 4569, 'token_str': 'fun', 'sequence': 'the movie was full of fun.'}, {'score': 0.0663449838757515, 'token': 20096, 'token_str': 'surprises', 'sequence': 'the movie was full of surprises.'}, {'score': 0.04468414932489395, 'token': 3689, 'token_str': 'drama', 'sequence': 'the movie was full of drama.'}, {'score': 0.027217140421271324, 'token': 3340, 'token_str': 'stars', 'sequence': 'the movie was full of stars.'}, {'score': 0.025412848219275475, 'token': 11680, 'token_str': 'laughs', 'sequence': 'the movie was full of laughs.'}]
+=====
+the movie was full of fun.
+fun
