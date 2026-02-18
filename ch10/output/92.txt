@@ -1,0 +1,14 @@
+=== Generated Text ===
+The movie was full of jokes and jokes about how the movie was a joke
+
+=== Token Likelihoods ===
+Token:      jokes | Probability: 0.021892
+Token:        and | Probability: 0.289229
+Token:      jokes | Probability: 0.098501
+Token:      about | Probability: 0.205559
+Token:        how | Probability: 0.099716
+Token:        the | Probability: 0.084638
+Token:      movie | Probability: 0.036411
+Token:        was | Probability: 0.296345
+Token:          a | Probability: 0.067678
+Token:       joke | Probability: 0.173509

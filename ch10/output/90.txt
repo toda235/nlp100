@@ -1,0 +1,10 @@
+jokes: 0.0219
+great: 0.0186
+laughs: 0.0115
+bad: 0.0109
+surprises: 0.0107
+references: 0.0105
+fun: 0.0100
+humor: 0.0074
+": 0.0074
+the: 0.0067

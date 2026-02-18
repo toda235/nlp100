@@ -1,0 +1,4 @@
+Epoch 1 Loss: 0.3886
+Epoch 2 Loss: 0.2237
+Epoch 3 Loss: 0.1733
+Dev Accuracy: 0.9060

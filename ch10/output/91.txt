@@ -1,0 +1,15 @@
+temperature:0.2:The movie was full of great moments, but it was also full of bad moments. I think it was a lot of fun to watch.
+
+I think it was a lot of fun to watch. I think it was a lot of fun to watch. I think it
+temperature:0.4:The movie was full of jokes and jokes, but it was not funny. It was not funny. It was not funny. It was not funny. It was not funny. It was not funny. It was not funny. It was not funny. It was not funny.
+temperature:0.6:The movie was full of action, with many of the characters taking on the role of soldiers.
+
+The movie also featured an alternate version of the main character, who was voiced by the original voice actor for the original movie.
+
+The movie was originally shot in Los
+temperature:0.8:The movie was full of bad jokes and "bad jokes were like you used to be in school."
+
+The movie had a few stars, but it was all over the map.
+
+"This is a movie I'm going to never forget," said David Oyel
+temperature:1.0:The movie was full of character interactions, as a bit of a shock to go into some detail of what, and who, that was. We've been working on this for, you know, 40 years. And some of it was fun, you know, to start putting
